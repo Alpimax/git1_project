@@ -7,6 +7,7 @@ public class HelloWorld {
         System.out.println("Added new things.");
         System.out.println("Alper OZKAN");
 //        new added.
+//        new Alpimax completed
     }
 
     public void nameLength(String name,String lastName){
